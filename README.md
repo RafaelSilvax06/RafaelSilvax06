@@ -22,7 +22,6 @@ Tenho experiência em desenvolver **macros em Excel**, fazer **tratamento de dad
 - 🐍 Automação com Python
 - ⚙️ Processos & Eficiência Operacional
 - 📈 Business Intelligence (Power BI)
-- 💼 Logística e Backoffice com TOTVS Protheus
 
 ---
 
