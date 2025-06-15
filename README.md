@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Sobre mim
+
 ## 🧠 Sobre mim
 
 Atualmente, atuo como **Auxiliar Administrativo / Backoffice**, utilizando o sistema **TOTVS Protheus** para gerenciamento de pedidos, faturamento e expedição.
