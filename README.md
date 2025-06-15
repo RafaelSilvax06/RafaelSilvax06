@@ -8,10 +8,14 @@
 ---
 
 ## 🧠 Sobre mim
+## 🧠 Sobre mim
 
-Atualmente trabalho como **Auxiliar Administrativo / Backoffice**, utilizando o sistema TOTVS Protheus.
-Tenho experiência em desenvolver **macros em Excel**, fazer **tratamento de dados (ETL)** com Python (Pandas, Numpy), e construir **dashboards interativos** com Power BI.
-E atualmente faço cursos de programação e analise de dados para me desenvolver cada vez mais, envolvendo tanto trativas quanto Programação Web.
+Atualmente, atuo como **Auxiliar Administrativo / Backoffice**, utilizando o sistema **TOTVS Protheus** para gerenciamento de pedidos, faturamento e expedição.
+
+Tenho experiência em desenvolver **macros no Excel**, realizar **tratamento de dados (ETL)** com **Python** utilizando bibliotecas como `Pandas` e `NumPy`, além de construir **dashboards interativos com Power BI**.
+
+Estou constantemente me aprimorando por meio de cursos em **programação**, **análise de dados** e **desenvolvimento web**, com foco em ampliar minhas habilidades técnicas e transitar cada vez mais para a área de **tecnologia e dados**.
+
 
 ---
 
