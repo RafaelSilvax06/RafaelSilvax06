@@ -9,8 +9,7 @@
 
 ## 🧠 Sobre mim
 
-Atualmente trabalho como **Auxiliar Administrativo / Backoffice** , com foco em **processamento de pedidos**, **faturamento**, **relatórios via Protheus**, e **automação com Excel, Python e Power BI**.
-
+Atualmente trabalho como **Auxiliar Administrativo / Backoffice**, utilizando o sistema TOTVS Protheus.
 Tenho experiência em desenvolver **macros em Excel**, fazer **tratamento de dados (ETL)** com Python (Pandas, Numpy), e construir **dashboards interativos** com Power BI.
 
 ---
