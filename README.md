@@ -3,8 +3,6 @@
 🎓 Estudante de **Ciência da Computação** 
 📊 Apaixonado por **Análise de Dados** e **Automação com Python**  
 📍 São Paulo - Brasil  
-📈 Em transição de áreas administrativas para tecnologia e dados
-
 ---
 
 
