@@ -34,7 +34,7 @@ Estou constantemente me aprimorando por meio de cursos em **programação**, **a
 | Ferramenta        | Nível            |
 |-------------------|------------------|
 | 🐍 Python          | Intermediário     |
-| 📊 Power BI        | Intermediário     |
+| 📊 Power BI        | Básico     |
 | 📋 Excel (VBA/macros) | Avançado       |
 | 🌐 HTML            | Básico            |
 | 🐘 PHP             | Básico            |
